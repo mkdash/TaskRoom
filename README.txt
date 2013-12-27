@@ -6,3 +6,6 @@ Project Description: A project build in Java to help with Task management. Task 
 - [TODO] : Implement the application.
 
 - Contact : mahendra_k_dash@yahoo.com
+
+Projects included are:
+1. Personal Document Management System (PDMS)
