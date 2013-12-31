@@ -9,3 +9,4 @@ Project Description: A project build in Java to help with Task management. Task 
 
 Projects included are:
 1. Personal Document Management System (PDMS)
+2. A module that manages the Email-Ids for common mailing, like on NewYear, Diwali and soo.. It should have a group office/personal. This module can be coupled into PDMS if possible.
